@@ -5,3 +5,5 @@ poi.csv
 project
 spark-warehouse
 target
+location.results
+metastore_db
